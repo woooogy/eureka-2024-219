@@ -1,35 +1,47 @@
-# Welcome to GitHub
+# 프로젝트 개요
 
-유레카 프로젝트 팀 생성을 축하합니다.
+## 팀원
+- **김용욱**: 팀 리더, 데이터 분석 담당
+- **김동균**: 개발자, 웹 프로그래밍 담당
+- **김창준**: 디자이너, UX/UI 설계 담당
+- **권규민**
+- **박상민**
+- **이재현**
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+---
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
+## 슬로건
+> **"점진적 과부하"**
 
-## Markdown을 사용하여 내용꾸미기
+---
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+## 관심분야
+- 데이터 분석 및 시각화
+- 인공지능 및 머신러닝
+- 사용자 경험(UX) 개선
+- 환경친화적 기술 개발
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 주요 활동
+### 주간 미팅
+- 매주 월요일 오후 2시, 프로젝트 진행 상황 공유
+- 아이디어 브레인스토밍 세션
 
-- Bulleted
-- List
+### 성과
+- 2024년 10월: 기본 기능 프로토타입 완성
+- 2024년 11월: 사용자 테스트 진행 및 피드백 수집
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 알아본 것
+- **기술 조사**: React와 Django를 활용한 웹 애플리케이션 개발 가능성
+- **시장 조사**: 비슷한 서비스의 사용자 통계 및 시장 규모
+- **문제점 분석**: 기존 솔루션의 한계점 파악
 
-[Link](url) and ![Image](src)
-```
+---
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+## 후기
+> 프로젝트를 진행하면서 많은 도전과 배움이 있었습니다.  
+> 특히 팀원 간의 협업과 커뮤니케이션이 큰 성과를 이끌어냈다고 생각합니다.  
+> 앞으로도 지속적으로 발전해 나갈 계획입니다.
